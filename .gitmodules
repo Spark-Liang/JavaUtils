@@ -1,0 +1,3 @@
+[submodule "JavaAgentUtils"]
+	path = JavaAgentUtils
+	url = https://github.com/Spark-Liang/JavaAgentUtils.git
