@@ -1,3 +1,6 @@
 [submodule "JavaAgentUtils"]
 	path = JavaAgentUtils
 	url = https://github.com/Spark-Liang/JavaAgentUtils.git
+[submodule "JavaMiniUtils"]
+	path = JavaMiniUtils
+	url = https://github.com/Spark-Liang/JavaMiniUtils.git
